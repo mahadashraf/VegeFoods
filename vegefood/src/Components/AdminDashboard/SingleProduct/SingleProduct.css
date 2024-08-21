@@ -3,7 +3,7 @@
   justify-content: center; /* Center horizontally */
   align-items: center; /* Center vertically */
   height: 100vh; /* Full viewport height */
-  background-image: url("C:/Users/Mahad Ashraf/Desktop/Vegefood-project/vegefood/public/bg.jpg");
+  background-image: url("https://www.bhg.com/thmb/Mwd_YEkDbVg_fPsUDcWr3eZk9W0=/5645x0/filters:no_upscale():strip_icc()/difference-between-fruits-vegetables-01-5f92e7ec706b463287bcfb46985698f9.jpg");
  
   display: flex;
     flex-direction: column;
